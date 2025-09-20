@@ -7,19 +7,19 @@ Yosys
 </p>
 
 <P>
-Yosys
+IVerilog
 </P>
 <p>
   <img src="./asse/2.png">
 </p>
 <P>
-Yosys
+GTKwave
 </P>
 <p>
   <img src="./asse/3.png">
 </p>
 <P>
-Yosys
+NgSpice
 </P>
 <p>
   <img src="./asse/4.png">
